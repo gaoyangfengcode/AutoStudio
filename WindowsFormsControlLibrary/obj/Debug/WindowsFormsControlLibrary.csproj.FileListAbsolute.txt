@@ -1,0 +1,9 @@
+C:\Users\gaoya\source\repos\WindowsFormsControlLibrary\bin\Debug\WindowsFormsControlLibrary.dll
+C:\Users\gaoya\source\repos\WindowsFormsControlLibrary\bin\Debug\WindowsFormsControlLibrary.pdb
+C:\Users\gaoya\source\repos\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.Properties.Resources.resources
+C:\Users\gaoya\source\repos\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.UserControl1.resources
+C:\Users\gaoya\source\repos\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csproj.GenerateResource.cache
+C:\Users\gaoya\source\repos\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.dll
+C:\Users\gaoya\source\repos\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.pdb
+C:\Users\gaoya\source\repos\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.UserControl2.resources
+C:\Users\gaoya\source\repos\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csprojAssemblyReference.cache
